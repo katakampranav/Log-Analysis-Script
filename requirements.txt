@@ -1,0 +1,2 @@
+# Ensure the script is run with a compatible version of Python
+Python>=3.6
