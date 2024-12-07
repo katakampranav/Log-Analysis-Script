@@ -62,7 +62,7 @@ Below is a screenshot of the script running successfully in my personal laptop, 
 
 ## Example CSV Output
 
-The script generates a CSV file (`log_analysis_results.csv`) with the following structure:
+The script generates a CSV file [`log_analysis_results.csv`](https://github.com/katakampranav/Log-Analysis-Script/blob/main/log_analysis_results.csv) with the following structure:
 ```
 IP Address,Request Count
 192.168.1.1,15
